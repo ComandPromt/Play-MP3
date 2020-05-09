@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="libs/basicplayer3.0.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-api.jar"/>
+	<classpathentry kind="lib" path="libs/edisoncorSX.jar"/>
+	<classpathentry kind="lib" path="libs/ilf-gpl.jar"/>
+	<classpathentry kind="lib" path="libs/imgscalr-lib-4.2.jar"/>
+	<classpathentry kind="lib" path="libs/jflac-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/JID3.jar"/>
+	<classpathentry kind="lib" path="libs/jid3lib-0.5.4.jar"/>
+	<classpathentry kind="lib" path="libs/jl1.0.jar"/>
+	<classpathentry kind="lib" path="libs/jlgui3.0.jar"/>
+	<classpathentry kind="lib" path="libs/jmactritonusspi1.74.jar"/>
+	<classpathentry kind="lib" path="libs/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="libs/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="libs/jspeex0.9.7.jar"/>
+	<classpathentry kind="lib" path="libs/kj_dsp1.1.jar"/>
+	<classpathentry kind="lib" path="libs/mp3agic-0.8.3.jar"/>
+	<classpathentry kind="lib" path="libs/mp3spi1.9.5.jar"/>
+	<classpathentry kind="lib" path="libs/nimrodlf.jar"/>
+	<classpathentry kind="lib" path="libs/oalnf.jar"/>
+	<classpathentry kind="lib" path="libs/tinycp.jar"/>
+	<classpathentry kind="lib" path="libs/tinylaf.jar"/>
+	<classpathentry kind="lib" path="libs/tritonus_share.jar"/>
+	<classpathentry kind="lib" path="libs/vorbisspi1.0.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
